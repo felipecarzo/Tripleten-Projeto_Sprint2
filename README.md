@@ -13,7 +13,9 @@ Os dados analisados foram extraídos de um serviço real de streaming de música
 
 /Tripleten-Projeto_Sprint2
 │── proj-sprint2-tripleten.ipynb  # Notebook principal com código e análises
+
 │── music_project_download.csv    # CSV com os dados do projeto
+
 │── README.md                     # Este documento
 
 ## 📊 Conhecimentos Aplicados
