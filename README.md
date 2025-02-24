@@ -10,14 +10,13 @@ Durante o projeto, foram aplicadas técnicas de **análise exploratória de dado
 Os dados analisados foram extraídos de um serviço real de streaming de música e incluem informações como título das músicas, artista, gênero musical, cidade do usuário, horário de reprodução e dia da semana.
 
 ## 🚀 Estrutura do Projeto
-
+```
 /Tripleten-Projeto_Sprint2
 
 │── proj-sprint2-tripleten.ipynb
-
 │── music_project_download.csv
-
 │── README.md
+```
 
 ## 📊 Conhecimentos Aplicados
 - **Análise exploratória de dados (EDA)**: visão geral e estatísticas iniciais do dataset.
