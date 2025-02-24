@@ -35,15 +35,18 @@ Os dados analisados foram extraídos de um serviço real de streaming de música
 Para visualizar e rodar o notebook:
 
 1. Clone este repositório:
+
    git clone https://github.com/felipecarzo/Tripleten-projeto-Sprint2.git
 
-2.	Acesse o diretório do projeto:
+3.	Acesse o diretório do projeto:
+
    cd Tripleten-projeto-Sprint2
 
-3.	Abra o Jupyter Notebook:
+5.	Abra o Jupyter Notebook:
+
    jupyter notebook notebook_sprint2.ipynb
 
 
-4.	Execute as células para visualizar os resultados.
+7.	Execute as células para visualizar os resultados.
 
 📌 Nota: Este projeto foi desenvolvido como parte do Bootcamp TripleTen, seguindo um modelo de notebook estruturado para organização do código e documentação das análises.
