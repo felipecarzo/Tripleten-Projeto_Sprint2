@@ -33,7 +33,7 @@ Para visualizar e rodar o notebook:
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/felipecarzo/Tripleten-projeto-Sprint2.git```
+   git clone https://github.com/felipecarzo/Tripleten-projeto-Sprint2.git
 
 2.	Acesse o diretório do projeto:
 
