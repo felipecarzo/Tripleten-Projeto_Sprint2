@@ -32,17 +32,17 @@ Os dados analisados foram extraídos de um serviço real de streaming de música
 Para visualizar e rodar o notebook:
 
 1. Clone este repositório:
-   ```bash
+
    git clone https://github.com/felipecarzo/Tripleten-projeto-Sprint2.git
 
 2.	Acesse o diretório do projeto:
-```bash
-cd Tripleten-projeto-Sprint2
+
+   cd Tripleten-projeto-Sprint2
 
 
 3.	Abra o Jupyter Notebook:
 
-jupyter notebook notebook_sprint2.ipynb
+   jupyter notebook notebook_sprint2.ipynb
 
 
 4.	Execute as células para visualizar os resultados.
