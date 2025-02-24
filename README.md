@@ -36,15 +36,15 @@ Para visualizar e rodar o notebook:
    git clone https://github.com/felipecarzo/Tripleten-projeto-Sprint2.git
 
 2.	Acesse o diretório do projeto:
-
+```bash
 cd Tripleten-projeto-Sprint2
 
 
-	3.	Abra o Jupyter Notebook:
+3.	Abra o Jupyter Notebook:
 
 jupyter notebook notebook_sprint2.ipynb
 
 
-	4.	Execute as células para visualizar os resultados.
+4.	Execute as células para visualizar os resultados.
 
 📌 Nota: Este projeto foi desenvolvido como parte do Bootcamp TripleTen, seguindo um modelo de notebook estruturado para organização do código e documentação das análises.
